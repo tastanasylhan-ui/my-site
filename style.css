@@ -1,0 +1,5 @@
+body { font-family: Arial, sans-serif; }
+#chatBox div { max-width: 80%; }
+.user-msg { background:#0d6efd; color:white; border-radius:10px; padding:8px; margin-bottom:8px; align-self:flex-end; }
+.bot-msg { background:#6c757d; color:white; border-radius:10px; padding:8px; margin-bottom:8px; align-self:flex-start; }
+#chatBox { display:flex; flex-direction:column; }
